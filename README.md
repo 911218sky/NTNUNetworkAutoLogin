@@ -1,21 +1,27 @@
-# NTNUNetworkAutoLogin
+# NTNU Network Auto Login
 
-This is a program designed to automate the process of logging into your school network, allowing you to effortlessly access the network without repetitive manual logins. This program is compatible with both Windows and Linux ARM64 operating systems.
+**Automatic WiFi authentication tool for National Taiwan Normal University (NTNU) campus network**
 
-## How to Use
+A lightweight automation tool that eliminates repetitive manual logins to NTNU campus WiFi portal, enabling seamless internet access for students and staff.
 
-1. Download the program compatible with your operating system and save it to your computer.
+## 🚀 Features
 
-2. Double-click to run the program, or execute it in the terminal.
+- **One-click authentication** - Automatic login to NTNU campus network
+- **Cross-platform support** - Windows & Linux ARM64 compatible
+- **Secure credential storage** - Encrypted local password management
+- **Background operation** - Continuous network connectivity
+- **Simple setup** - User-friendly interface
 
-3. The program will prompt you to enter your username and password; please input the correct information.
+## 💡 Usage
 
-4. The program will automatically log you into the school network, ensuring your access to the internet.
+The program automatically:
+- Detects NTNU network connection
+- Authenticates with campus portal
+- Maintains internet connectivity
+- Runs silently in background
 
-## Notes
+## ⚠️ Important Notes
 
-- Ensure that your username and password are accurate; otherwise, the program will not successfully log in.
-
-- This program is designed for a specific school network and may not function in other environments.
-
-- Please use this program exclusively for educational purposes and adhere to your school's and legal regulations.
+- **Educational use only** - Comply with NTNU IT policies
+- **Verify credentials** - Ensure your NTNU account is active
+- **Network specific** - Designed exclusively for NTNU campus network
